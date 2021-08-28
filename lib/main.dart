@@ -134,7 +134,7 @@ class _CalendarPageState extends State<CalendarPage> {
                     child: Container(
                       padding: const EdgeInsets.only(left: 30.0),
                       width: MediaQuery.of(context).size.width,
-                      height: MediaQuery.of(context).size.height,
+                      height: MediaQuery.of(context).size.height*0.55,
                       decoration: const BoxDecoration(
                         color:  Color(0xff30384c),
                         borderRadius: BorderRadius.only(
@@ -167,7 +167,7 @@ class _CalendarPageState extends State<CalendarPage> {
                           ),
                           Positioned(
                             bottom: 0,
-                            height: 450,
+                            height: MediaQuery.of(context).size.height/3,
                             width: MediaQuery.of(context).size.width,
                             child: Container(
                               decoration: BoxDecoration(
