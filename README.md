@@ -1,4 +1,5 @@
-[calendar](https://user-images.githubusercontent.com/72456817/131230040-9f4ecdba-f2d6-4921-944d-074760432895.png)
+![calendar](https://user-images.githubusercontent.com/72456817/131230085-8f639d4e-248a-4911-acba-fad3895914c0.gif)
+
 
 
 # flutter_calendar_app!
